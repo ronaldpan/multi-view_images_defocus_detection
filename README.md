@@ -1,4 +1,4 @@
-# multiew_images_defocus_detection
+# multi-view_images_defocus_detection
 sample data for Defocus blur estimation in calibrated multi-view images
 
 Zhuo2011:
